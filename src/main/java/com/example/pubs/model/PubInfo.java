@@ -1,4 +1,4 @@
-package com.example.pubs;
+package com.example.pubs.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
